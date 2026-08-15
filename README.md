@@ -57,7 +57,7 @@ Big O analysis.
 
 | Month | Focus | Status |
 |-------|-------|--------|
-| 1–2 | Python fundamentals · PostgreSQL · FastAPI | ✅ Done |
+| 1–2 | Python fundamentals · PostgreSQL · FastAPI |🔄  In progress |
 | 3–4 | Auth · Testing · Docker · Project 1 | 🔄 In progress |
 | 5–6 | Redis · Observability · Project 2 · Job search | ⏳ Planned |
 
@@ -67,7 +67,8 @@ Big O analysis.
 
 - **GitHub:** [@Jflorez29-r](https://github.com/Jflorez29-r)
 - **Email:** juniorflorezrivera3@gmail.com
-- **LinkedIn:** *(add your link)*
+- **LinkedIn:** *www.linkedin.com/in/
+rafael-junior-florez-rivera-41a87a27b*
 
 ---
 
